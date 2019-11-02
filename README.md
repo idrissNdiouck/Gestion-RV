@@ -37,4 +37,6 @@ class Database {
     private $_database = "hopital";
     
     
+    
+    
  
